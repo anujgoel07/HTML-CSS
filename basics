@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> THIS IS THE BASIC</title>
+  </head>
+  <body>
+    <!-- ANYTHING HERE IS COMMENT-->
+    <h1>My First Page</h1>
+        <p>This is my first page.</p>
+        <a href="https://www.google.com">Click here to go google</a>
+        <hr/>
+        <h3 id="faq">Frequently asked questions</h3>
+        <p>The first rule about fight club is that you do not talk about fight club.</p>
+        <p>However, if you do have questions, please e-mail me at foo@bar.com</p>
+
+  </body>
+</html
